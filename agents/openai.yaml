@@ -1,0 +1,4 @@
+interface:
+  display_name: "教育文件對抗批改"
+  short_description: "先理解全案脈絡與評量單位，跨章回查反證後給分，提出可驗收的修訂要求"
+  default_prompt: "使用$education-document-reviewer，先完整讀取並摘要全案脈絡，跨章回查疑點與反證，再依任務及共同規準給分，列出證據、錨點與修訂驗收條件。"
